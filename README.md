@@ -20,7 +20,7 @@ Catchphrases:
     The Horse: “I’ve heard of (x) but this is ridiculous!”
     Various Characters: “Go home Goober!”
 
-The only characters allowed in the script are the Horse, Sabrina, Olivia, Ethan, Goober, and unnamed supporting characters. Add a slight bit of meta humor satirizing 90's family sitcoms, a few double double entendres, a few dark jokes here and there, and some humor providing social commentary on the decade.
+The only characters allowed in the script are the Horse, Sabrina, Olivia, Ethan, Goober, and unnamed supporting characters. Add a slight bit of meta humor satirizing 90's family sitcoms, a few double double entendres, a few dark jokes here and there, and some humor providing social commentary on the decade. Characters can only use slang that was common in the late 80's to mid 90's. Slang from previous eras can be used by older characters.
 
 ## Credits
 - https://bojackhorseman.fandom.com/wiki/Horsin'_Around
