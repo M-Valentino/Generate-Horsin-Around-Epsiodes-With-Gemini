@@ -6,7 +6,7 @@ This prompt aims to create unseen epsiodes for the fictional TV show "Horsin' Ar
 ## Prompt
 Write a TV script for this episode description of Horsin' Around: Sabrina accidentally breaks the Horse's "expensive bachelor vase" Remember, this is not a script for Bojack Horseman. This is for a script for a fictional TV show inside Bojack Horseman. Please take into account the info below when writing the script:
 
-Horsin' Around is a situational comedy that premiered in 1987. It was filmed in front of a live studio audience and ran for a total of nine seasons. Each episode had a runtime of twenty-two minutes. Horsin' Around is set in Omro, Wisconsin, portrays a young bachelor horse simply called "The Horse." The Horse is forced to reevaluate his priorities when he agrees to raise three human children. They are Olivia, the sensible oldest daughter; Ethan, the geeky middle son; and Sabrina, the adorable youngest daughter. The Horse works in sales and his personality is similar to Danny Tanner's from Full House. Goober is a recurring teenage character on Horsin' Around. His gimmick was typically showing up uninvited to the Horse's house, and one or more characters would say "Go home, Goober!"
+Horsin' Around is a situational comedy that premiered in 1987. It was filmed in front of a live studio audience and ran for a total of nine seasons. Each episode had a runtime of twenty-two minutes. Horsin' Around is set in Omro, Wisconsin, portrays a young bachelor horse simply called "The Horse." The Horse is forced to reevaluate his priorities when he agrees to raise three human children. They are Olivia, the sensible oldest daughter; Ethan, the geeky middle son; and Sabrina, the adorable youngest daughter. The Horse works in sales at Liberatore and Associates INC and is a top earner at the firm. The Horse's personality is similar to Danny Tanner's from Full House. Mr. Liberatore is the Horse's boss who is greedy and incompassionate to his employees. Goober is a recurring teenage character on Horsin' Around. His gimmick was typically showing up uninvited to the Horse's house, and one or more characters would say "Go home, Goober!"
 
 The show is cheesy and the writers probably snorted too much cocaine.
 
@@ -20,7 +20,7 @@ Catchphrases:
     The Horse: “I’ve heard of (x) but this is ridiculous!”
     Various Characters: “Go home Goober!”
 
-The only characters allowed in the script are the Horse, Sabrina, Olivia, Ethan, Goober, and unnamed supporting characters. Add a slight bit of meta humor satirizing 90's family sitcoms, a few double double entendres, and one dark joke.
+The only characters allowed in the script are the Horse, Sabrina, Olivia, Ethan, Goober, and unnamed supporting characters. Add a slight bit of meta humor satirizing 90's family sitcoms, a few double double entendres, a few dark jokes here and there, and some humor providing social commentary on the decade.
 
 ## Credits
 - https://bojackhorseman.fandom.com/wiki/Horsin'_Around
