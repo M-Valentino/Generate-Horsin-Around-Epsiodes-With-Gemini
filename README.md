@@ -1,4 +1,4 @@
-# Generate Horsin Around Epsiodes With Gemini
+# Generate Horsin Around Epsiodes With Gemini v1.0
 This prompt aims to create unseen epsiodes for the fictional TV show "Horsin' Around" complete with 90's sitcom meta humor and dark jokes as seen in The Bojack Horseman Christmas special.
 ## Instructions
 - Copy and Paste the prompt into Gemini. Change the desired epsiode title.
@@ -24,3 +24,6 @@ The only characters allowed in the script are the Horse, Sabrina, Olivia, Ethan,
 
 ## Credits
 - https://bojackhorseman.fandom.com/wiki/Horsin'_Around
+
+## Contributing
+If you have any recommendations for improving the prompt, you may make a pull request.
