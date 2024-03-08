@@ -1,4 +1,4 @@
-# Generate-Horsin-Around-Epsiodes-With-Gemini
+# Generate Horsin Around Epsiodes With Gemini
 
 ## Copy and Paste this Prompt into Gemini. Change the desired epsiode title
 Write a script for this episode description of Horsin' Around: Sabrina accidentally breaks the Horse's "expensive bachelor vase" Remember, this is not a script for Bojack Horseman. This is for a script for a fictional TV show inside Bojack Horseman. Please take into account the info below when writing the script:
