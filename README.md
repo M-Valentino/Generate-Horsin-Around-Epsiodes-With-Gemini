@@ -1,7 +1,7 @@
 # Generate Horsin Around Epsiodes With Gemini
-
+This prompt aims to create unseen epsiodes for the fictional TV show "Horsin' Around".
 ## Copy and Paste this Prompt into Gemini. Change the desired epsiode title
-Write a script for this episode description of Horsin' Around: Sabrina accidentally breaks the Horse's "expensive bachelor vase" Remember, this is not a script for Bojack Horseman. This is for a script for a fictional TV show inside Bojack Horseman. Please take into account the info below when writing the script:
+Write a TV script for this episode description of Horsin' Around: Sabrina accidentally breaks the Horse's "expensive bachelor vase" Remember, this is not a script for Bojack Horseman. This is for a script for a fictional TV show inside Bojack Horseman. Please take into account the info below when writing the script:
 
 Horsin' Around is a situational comedy that premiered in 1987. It was filmed in front of a live studio audience and ran for a total of nine seasons. Each episode had a runtime of twenty-two minutes. Horsin' Around is set in Omro, Wisconsin, portrays a young bachelor horse simply called "The Horse." The Horse is forced to reevaluate his priorities when he agrees to raise three human children. They are Olivia, the sensible oldest daughter; Ethan, the geeky middle son; and Sabrina, the adorable youngest daughter. The Horse works in sales and his personality is similar to Danny Tanner's from Full House. Goober is a recurring teenage character on Horsin' Around. His gimmick was typically showing up uninvited to the Horse's house, and one or more characters would say "Go home, Goober!"
 
