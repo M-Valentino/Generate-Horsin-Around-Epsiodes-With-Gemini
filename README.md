@@ -1,4 +1,4 @@
-# Generate Horsin Around Epsiodes With Gemini v1.2
+# Generate Horsin Around Epsiodes With Gemini v1.3
 This prompt aims to create unseen epsiodes for the fictional TV show "Horsin' Around" complete with 90's sitcom meta humor and dark jokes as seen in The Bojack Horseman Christmas special.
 ## Instructions
 - Copy and Paste the prompt into Gemini. Change the desired epsiode title.
