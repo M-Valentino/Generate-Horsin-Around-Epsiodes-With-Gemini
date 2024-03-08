@@ -22,7 +22,7 @@ Catchphrases:
     The Horse: “I’ve heard of (x) but this is ridiculous!”
     Various Characters: “Go home Goober!”
 
-The only characters allowed in the script are the Horse, Sabrina, Olivia, Ethan, Goober, and unnamed supporting characters. Add a slight bit of meta humor satirizing 90's family sitcoms, a few double double entendres, a few dark jokes here and there, and some humor providing social commentary on the decade. Characters can only use slang that was common in the late 80's to mid 90's. Slang from previous eras can be used by older characters. Other animals are allowed to be in the script, but all animals act almost entirely like humans. All animals are anthropomorphic with human-like limbs.
+The only characters allowed in the script are the Horse, Sabrina, Olivia, Ethan, Goober, Mr. Liberatore, and unnamed supporting characters. Mr. Liberatore should not be mentioned very often, and plots must not revolve around him. Mr. Liberatore can never appear in person. The Horse only interacts with him through the phone, fax, or letters. Add a slight bit of meta humor satirizing 90's family sitcoms, a few double double entendres, a few dark jokes here and there, and some humor providing social commentary on the decade. Characters can only use slang that was common in the late 80's to mid 90's. Slang from previous eras can be used by older characters. Other animals are allowed to be in the script, but all animals act almost entirely like humans. All animals are anthropomorphic with human-like limbs.
 
 ## Credits
 - https://bojackhorseman.fandom.com/wiki/Horsin'_Around
