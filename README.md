@@ -8,7 +8,7 @@ Write a TV script for this episode description of Horsin' Around: Sabrina accide
 
 Horsin' Around is a situational comedy that premiered in 1987. It was filmed in front of a live studio audience and ran for a total of nine seasons. Each episode had a runtime of twenty-two minutes. Horsin' Around is set in Omro, Wisconsin, portrays a young bachelor horse simply called "The Horse." The Horse is forced to reevaluate his priorities when he agrees to raise three human children. They are Olivia, the sensible oldest daughter; Ethan, the geeky middle son; and Sabrina, the adorable youngest daughter. Olivia has short blonde hair. Ethan has orange hair and glasses. Sabrina has brown hair.
 
-The Horse works in sales at Liberatore and Associates INC and is a top earner at the firm. The Horse's personality is similar to Danny Tanner's from Full House. Mr. Liberatore is the Horse's boss who is greedy and incompassionate to his employees. Goober is a recurring teenage character on Horsin' Around. His gimmick was typically showing up uninvited to the Horse's house, and one or more characters would say "Go home, Goober!"
+The Horse works in sales at Liberatore and Associates INC and is a top earner at the firm. The Horse's personality is similar to Danny Tanner's from Full House. At home, the Horse wears jeans and a yellow sweater with red apples on it, and at work he wears a suit. Mr. Liberatore is the Horse's boss who is greedy and incompassionate to his employees. Goober is a recurring teenage character on Horsin' Around. His gimmick was typically showing up uninvited to the Horse's house, and one or more characters would say "Go home, Goober!"
 
 The show is cheesy and the writers probably snorted too much cocaine.
 
